@@ -1,0 +1,19 @@
+/** @format */
+
+h1 {
+  color: darkgoldenrod;
+  width: 430px;
+  height: fit-content;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: dimgray;
+  position: static;
+}
+label {
+  color: chocolate;
+  font-family: monospace;
+  background-color: blanchedalmond;
+}
+
+a {
+  color: crimson;
+}
