@@ -1,0 +1,52 @@
+/** @format */
+
+
+
+
+}
+.curve {
+  position: absolute;
+  height: 225px;
+  width: 100%;
+  bottom: 0;
+}
+.curve::before {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 100% 50%;
+  width: 55%;
+  height: 100%;
+  background-color: lavender
+  transform : translate:
+  
+}
+.curve::after {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 100% 50%;
+  width: 55%;
+  height: 100%;
+  background-color: lavender;
+}
+
+.wave {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+.spacer {
+    aspect-ratio:   900/450;
+    width: 100%
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.layer1{
+    background-image: url('/layered-waves-haikei\ \(1\).svg');
+}
