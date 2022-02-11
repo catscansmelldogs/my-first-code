@@ -1,0 +1,8 @@
+/** @format */
+
+body {
+  display: flex;
+  background-image: url("/layered-waves-haikei\ \(3\).svg");
+  position: absolute;
+  align-items: center;
+}
